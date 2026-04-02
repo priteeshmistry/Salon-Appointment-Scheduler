@@ -1,8 +1,8 @@
-Project Overview
+**Project Overview:**
 
 This is a certification project for freeCodeCamp's Relational Database course. It uses a Bash script (salon.sh) to interact with a PostgreSQL database (salon) via the command line.
 
-Technical Implementation
+**Technical Implementation:**
 
 Database Schema: Created three tables (services, customers, appointments) linked by primary and foreign keys.
 
